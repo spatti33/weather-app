@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+    background-image: url(./weather.jpg);
+    background-size: cover;
+}
+
+div {
+    margin-top: 20%;
+}
+
+#submit {
+    width: 20%;
+    margin: auto;
+}
+
+input {
+    font-size: 1.5rem;
+    margin: 3% auto 0 auto;
+    width: 50%;
+    opacity: 75%;
+}
+
+.btn:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.radio-div {
+    width: 30%;
+    margin: 3% auto;
+}
+
+.right {
+    margin-left: 2rem;
+}
+
+.left {
+    margin-right: 2rem;
+}
